@@ -1,1 +1,1 @@
-Just for learning puppet
+Just for learning puppet.
